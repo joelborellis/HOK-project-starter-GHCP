@@ -46,7 +46,7 @@ The elements defined in the constitution are non-negotiable; as you establish sp
 - **Goal**: Establish project principles used to create the constitution (`Agents.md`)
 - **Output**: List of project principles aligned with the customers business and technical needs as described in Session 1
 
-TODO: Add Powerpoint deck for this session.
+TODO: Add Powerpoint deck for this session.  Include sample constitution items.
 
 ## Session 4: Deeper dive on Specify, Plan, Clarify, Tasks, and Implement (1 hour)
 
@@ -59,7 +59,7 @@ TODO: Add Powerpoint deck for this session.
 - **Goal**: Define the plans for each of the specifications
 - **Output**: Necessary inputs to the plans for each of the three (3) specifications
 
-TODO: Add Powerpoint deck for this session.
----
+TODO: Add Powerpoint deck for this session.  Include sample specification, plan, clarify, tasks, and implement artifacts.
+
 
 [← Back to README](./README.md) · [Next: Day 2 →](./Day-2.md)
