@@ -9,6 +9,9 @@ This agenda outline is intended for SE roles—pre-sales “code-with” engagem
 
 This repository is a **starter kit for running a 3-day “code-with” engagement** using SpecKit. It’s designed to be forked then install the  latest version of SpecKit into the forked repo.
 
+> **Note**
+> This repo contains all the scripts from the template version 0.90 of SpecKit.  These are provided using GitHub Copilot as the coding Agent and Powershell as the command line interface.  It's recommended to always use the latest version of SpecKit for your engagements and use GitHub Copilot Agents as the coding agent and VSCode as the IDE.
+
 ### What you get
 
 - An outline for a **3-day agenda** focused on a hands on keyboard experience with a customer building a solution with three (3) specifications using SpecKit.
