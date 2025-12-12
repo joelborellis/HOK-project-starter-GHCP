@@ -1,6 +1,6 @@
 # 🧭 Day 1: Establish principles and define customer specifications
 
-[← Back to README](./README.md) · [Next: Day 2 →](./Day-2.md)
+[← Back to README](../README.md) · [Next: Day 2 →](../Day_2/Day-2.md)
 
 ## Session 1: Welcome/Introductions and goals for the 3-day engagement (1 hour)
 
@@ -62,4 +62,4 @@ TODO: Add Powerpoint deck for this session.  Include sample constitution items.
 TODO: Add Powerpoint deck for this session.  Include sample specification, plan, clarify, tasks, and implement artifacts.
 
 
-[← Back to README](./README.md) · [Next: Day 2 →](./Day-2.md)
+[← Back to README](../README.md) · [Next: Day 2 →](../Day_2/Day-2.md)

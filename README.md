@@ -18,8 +18,8 @@ This repository is a **starter kit for running a 3-day “code-with” engagemen
 
 - An outline for a **3-day agenda** focused on a hands on keyboard experience with a customer building a solution with three (3) specifications using SpecKit.
 - A **day-by-day agenda** with session examples:
-  - [Day 1](./Day-1.md)
-  - [Day 2](./Day-2.md)
+  - [Day 1](./Day_1/Day-1.md)
+  - [Day 2](./Day_2/Day-2.md)
   - [Day 3](./Day-3.md)
 - Placeholders for **session materials (PowerPoints)** and sample outputs (see the TODOs in the day files).
 
@@ -117,8 +117,8 @@ SpecKit is a great fit for “code-with” engagements because it helps the **SE
 
 ## 🗓️ Agenda by day
 
-- [Day 1: Establish principles and define customer specifications](./Day-1.md)
-- [Day 2: Code the first and second specification](./Day-2.md)
+- [Day 1: Establish principles and define customer specifications](./Day_1/Day-1.md)
+- [Day 2: Code the first and second specification](./Day_2/Day-2.md)
 - [Day 3: Code the final specification and test the full solution](./Day-3.md)
 
 

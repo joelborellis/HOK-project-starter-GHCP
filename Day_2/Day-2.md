@@ -1,6 +1,6 @@
 # 🧩 Day 2: Code the first and second specification
 
-[← Back to README](./README.md) · [← Prev: Day 1](./Day-1.md) · [Next: Day 3 →](./Day-3.md)
+[← Back to README](../README.md) · [← Prev: Day 1](../Day_1/Day-1.md) · [Next: Day 3 →](../Day-3.md)
 
 
 ## Session 1: Run `specify` for the first specification
@@ -32,4 +32,4 @@
 
 ---
 
-[← Back to README](./README.md) · [← Prev: Day 1](./Day-1.md) · [Next: Day 3 →](./Day-3.md)
+[← Back to README](../README.md) · [← Prev: Day 1](../Day_1/Day-1.md) · [Next: Day 3 →](../Day-3.md)
