@@ -7,11 +7,11 @@ This agenda outline is intended for SE roles—pre-sales “code-with” engagem
 
 ## 🧰 How to use this repo
 
-This repository is a **starter kit for running a 3-day “code-with” engagement** using SpecKit. It’s designed to be forked and used as the collaboration space where SEs and customer developers align on the agenda, capture the artifacts, and execute the work.
+This repository is a **starter kit for running a 3-day “code-with” engagement** using SpecKit. It’s designed to be forked then install the  latest version of SpecKit into the forked repo.
 
 ### What you get
 
-- **SpecKit prompts and instructions** to drive the workshop flow.
+- An outline for a **3-day agenda** focused on building a solution with three (3) specifications using SpecKit.
 - A **day-by-day agenda** with session examples:
   - [Day 1](./Day-1.md)
   - [Day 2](./Day-2.md)
@@ -22,6 +22,7 @@ This repository is a **starter kit for running a 3-day “code-with” engagemen
 
 1. **Starting a brand-new coding project**
   - Fork this repo as the engagement workspace.
+  - Install the latest version of SpecKit into the fork.
   - Use SpecKit to drive the constitution/specifications/plans/tasks, and build the solution from the generated scaffolding.
 
 2. **Starting from an existing accelerator / reference implementation**
