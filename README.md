@@ -1,6 +1,8 @@
 # 🧑‍💻 3-Day Customer Code-with Workshop using GitHub SpecKit
 
-This agenda outline is intended for SE roles—pre-sales “code-with” engagements where the objective is to prove out a technical solution by doing hands-on keyboard work with the customer.
+![Code-with Workshop](./media/Code-with-image.png)
+
+This agenda outline is intended for SE roles—pre-sales "code-with" engagements where the objective is to prove out a technical solution by doing hands-on keyboard work with the customer.
 
 > **Note**
 > This outline is for a code-with project that will tackle building a solution with three (3) cascading specifications—this keeps the engagement time bound. Because we are using GitHub SpecKit, the customer can continue to develop specification 3, 4, 5, … etc. SpecKit creates the scaffolding for continuing to move the project forward.
