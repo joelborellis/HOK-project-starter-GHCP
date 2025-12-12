@@ -5,6 +5,32 @@ This agenda outline is intended for SE roles—pre-sales “code-with” engagem
 > **Note**
 > This outline is for a code-with project that will tackle building a solution with three (3) cascading specifications—this keeps the engagement time bound. Because we are using GitHub SpecKit, the customer can continue to develop specification 3, 4, 5, … etc. SpecKit creates the scaffolding for continuing to move the project forward.
 
+## 🧰 How to use this repo
+
+This repository is a **starter kit for running a 3-day “code-with” engagement** using SpecKit. It’s designed to be forked and used as the collaboration space where SEs and customer developers align on the agenda, capture the artifacts, and execute the work.
+
+### What you get
+
+- **SpecKit prompts and instructions** to drive the workshop flow.
+- A **day-by-day agenda** with session examples:
+  - [Day 1](./Day-1.md)
+  - [Day 2](./Day-2.md)
+  - [Day 3](./Day-3.md)
+- Placeholders for **session materials (PowerPoints)** and sample outputs (see the TODOs in the day files).
+
+### How to start (two common paths)
+
+1. **Starting a brand-new coding project**
+  - Fork this repo as the engagement workspace.
+  - Use SpecKit to drive the constitution/specifications/plans/tasks, and build the solution from the generated scaffolding.
+
+2. **Starting from an existing accelerator / reference implementation**
+  - Fork the accelerator repo.
+  - Install SpecKit into that fork.
+  - Use *this* repo as the agenda + session-materials companion (or copy the day files/slides into the accelerator fork).
+
+Which path you choose depends on whether you’re **starting from scratch** or **starting from an existing codebase**—either way, the goal is the same: keep the workshop time-boxed, ship working code quickly, and leave the customer with a GitHub repo they can continue to expand with new specifications.
+
 ## 🧾 What is SpecKit?
 
 SpecKit is a **Specification-Driven Development (SDD)** approach that inverts traditional development:
