@@ -11,7 +11,7 @@ This repository is a **starter kit for running a 3-day “code-with” engagemen
 
 ### What you get
 
-- An outline for a **3-day agenda** focused on building a solution with three (3) specifications using SpecKit.
+- An outline for a **3-day agenda** focused on a hands on keyboard experience with a customer building a solution with three (3) specifications using SpecKit.
 - A **day-by-day agenda** with session examples:
   - [Day 1](./Day-1.md)
   - [Day 2](./Day-2.md)
