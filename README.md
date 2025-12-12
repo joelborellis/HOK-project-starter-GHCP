@@ -1,11 +1,11 @@
-# 3-Day Customer Code-with Workshop using GitHub SpecKit
+# 🧑‍💻 3-Day Customer Code-with Workshop using GitHub SpecKit
 
 This agenda outline is intended for SE roles—pre-sales “code-with” engagements where the objective is to prove out a technical solution by doing hands-on keyboard work with the customer.
 
 > **Note**
 > This outline is for a code-with project that will tackle building a solution with three (3) cascading specifications—this keeps the engagement time bound. Because we are using GitHub SpecKit, the customer can continue to develop specification 3, 4, 5, … etc. SpecKit creates the scaffolding for continuing to move the project forward.
 
-## What is SpecKit?
+## 🧾 What is SpecKit?
 
 SpecKit is a **Specification-Driven Development (SDD)** approach that inverts traditional development:
 
@@ -38,14 +38,14 @@ Constitution -> Specify -> Clarify -> Plan -> Tasks -> Implement
 
 In practice, this means you’re rarely “heads down coding” for long stretches—you’re continuously validating requirements with the customer while using an agent-assisted workflow to translate those requirements into a working demonstration.
 
-### Official resources
+### 🔗 Official resources
 
 - SpecKit (GitHub repo): https://github.com/github/spec-kit
 - SpecKit (website): https://speckit.org/
 
 **Shout-out**: huge thanks to **Den Delimarsky** and **John Lam** (GitHub/Microsoft) for their work on SpecKit and the broader Spec-Driven Development workflow.
 
-## Why use SpecKit with hands-on keyboard engagements?
+## 🚀 Why use SpecKit with hands-on keyboard engagements?
 
 SpecKit is a great fit for “code-with” engagements because it helps the **SE team and the customer’s developers** work from the same source of truth (the spec) and move quickly from a business problem to a working technical proof.
 
@@ -72,7 +72,7 @@ SpecKit is a great fit for “code-with” engagements because it helps the **SE
   - Decisions and changes remain anchored to written specifications.
   - Stakeholders can review intent (specs) and progress (plans/tasks) in a format that’s easy to follow.
 
-> **Example repo (fictitious workshop specs)**
+> **🧪 Example repo (fictitious workshop specs)**
 > 
 > For an example of what the 3-day workshop can produce, see:
 > https://github.com/joelborellis/mcp-project-speckit
@@ -83,7 +83,7 @@ SpecKit is a great fit for “code-with” engagements because it helps the **SE
 > - a **FastAPI** backend,
 > - and persistence to **PostgreSQL in Azure**.
 
-## Agenda by day
+## 🗓️ Agenda by day
 
 - [Day 1: Establish principles and define customer specifications](./Day-1.md)
 - [Day 2: Code the first and second specification](./Day-2.md)

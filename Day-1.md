@@ -1,4 +1,4 @@
-# Day 1: Establish principles and define customer specifications
+# 🧭 Day 1: Establish principles and define customer specifications
 
 [← Back to README](./README.md) · [Next: Day 2 →](./Day-2.md)
 

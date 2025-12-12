@@ -1,4 +1,4 @@
-# Day 3: Code the final specification and test the full solution
+# ✅ Day 3: Code the final specification and test the full solution
 
 [← Back to README](./README.md) · [← Prev: Day 2](./Day-2.md)
 

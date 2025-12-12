@@ -1,4 +1,4 @@
-# Day 2: Code the first and second specification
+# 🧩 Day 2: Code the first and second specification
 
 [← Back to README](./README.md) · [← Prev: Day 1](./Day-1.md) · [Next: Day 3 →](./Day-3.md)
 
