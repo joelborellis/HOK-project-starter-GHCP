@@ -1,6 +1,6 @@
-# 🧑‍💻 3-Day Customer Code-with Workshop using GitHub SpecKit
+# 🧑‍💻 Agent Code Catalyst - Specification driven hands-on coding Workshops
 
-![Code-with Workshop](./media/Code-with-image.png)
+![Code-with Workshop](./media/Agent_catalyst.png)
 
 This agenda outline is intended for SE roles—pre-sales "code-with" engagements where the objective is to prove out a technical solution by doing hands-on keyboard work with the customer.
 
